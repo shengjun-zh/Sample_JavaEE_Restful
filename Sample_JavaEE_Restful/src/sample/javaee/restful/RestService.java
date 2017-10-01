@@ -19,6 +19,7 @@ public class RestService extends Application {
 
 	@GET
 	@Path("/echo")
+	//
 	public Response getEchoMsg(@QueryParam("message") String msg) {
 		return Response.ok("Your msg was: " + msg
 				).build();
