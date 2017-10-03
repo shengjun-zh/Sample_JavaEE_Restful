@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<system-libraries>
+    <library path="D:/zhu/07_Software/java_ee_sdk-7u3/glassfish4/glassfish/modules/javax.ws.rs-api.jar" source="C:/Users/shenzhu/AppData/Local/Temp/decompiler/source/javax.ws.rs-api-2.0.1-sources.jar"/>
+    <library path="D:/zhu/07_Software/java_ee_sdk-7u3/glassfish4/glassfish/modules/jersey-server.jar" source="C:/Users/shenzhu/AppData/Local/Temp/decompiler/source/jersey-server-2.21-sources.jar"/>
+    <library path="D:/zhu/07_Software/java_ee_sdk-7u3/glassfish4/glassfish/modules/endorsed/jaxb-api.jar" source="C:/Users/shenzhu/AppData/Local/Temp/decompiler/source/jaxb-api-2.2.13-b141020.1521-sources.jar"/>
+</system-libraries>
