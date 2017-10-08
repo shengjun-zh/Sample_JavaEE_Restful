@@ -23,8 +23,8 @@ public class RestServiceJson extends Application {
 	public List<Message> getMsg() {
 
 		List<Message> list = new ArrayList<Message>();
-		list.add(new Message(1L, "Hello World!"));
-		list.add(new Message(2L, "Hello Jersey!"));
+//		list.add(new Message(1L, "Hello World!"));
+//		list.add(new Message(2L, "Hello Jersey!"));
 
 		return list;
 	}
